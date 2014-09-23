@@ -9,7 +9,7 @@ import javax.swing.*;
 
 public class Accueil extends JFrame implements ActionListener{
 	
-	//Déclaration des variables
+	//Déclaration des variables modif 2 bastard
 	private JPanel panel ;
 	private JButton btnajouter;
 	private JButton btnsupprimer;
